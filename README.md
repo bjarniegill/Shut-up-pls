@@ -28,6 +28,10 @@ __Run project:__
 python main.py
 ```
 
+
+## Raspberry Pi development:
+TODO: Look at https://gpiozero.readthedocs.io/en/stable/
+
 ### Setting up on Raspberry Pi:
 TODO
 https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d
